@@ -1,8 +1,8 @@
 # 嘲笑·跳舞·机器人
 # Laugh, Dance & Robots
 
-题记一： 又是六一节，给大家讲一段在那一年六一节曾经发生的往事。
-题记二： True. The title “Laugh, Dance & Robots” was inspired by “Love, Death & Robots” of Netflix. 
+* 题记一： 又是六一节，给大家讲一段在那一年六一节曾经发生的往事。
+* 题记二： “Laugh, Dance & Robots” 的标题是受 Netflix 的系列网剧 “Love, Death & Robots” 启发. 
 
 ## 01 六一节那天，我没能上台跳舞
 
