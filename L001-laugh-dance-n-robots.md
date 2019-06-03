@@ -1,8 +1,7 @@
 # 嘲笑 · 舞蹈 · 机器人 | Laugh, Dance & Robots
 
-* 题记一： 又是六一节，给大家讲一段在那一年六一节曾经发生的往事。
-* 题记二： 英文标题 “Laugh, Dance & Robots” 是受 Netflix 之网剧 “Love, Death & Robots” 之标题启发而得。
-* 题记三： 本文部分内容取材改编自本人三年前所著《一个跳舞的机器人》。
+* 题记一： 英文标题 “Laugh, Dance & Robots” 是受 Netflix 之网剧 “Love, Death & Robots” 之标题启发而得。
+* 题记二： 本文部分内容取材改编自本人三年前所著《一个跳舞的机器人》。
 
 ## 01 六一节那天，我没能上台跳舞
 
