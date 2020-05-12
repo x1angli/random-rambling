@@ -30,6 +30,7 @@ Up until now, the storm is still growling....
 《68家信托公司踩雷延期汇总》
 http://www.piaowww.com/post/993.html
 
+2020-05-11：四川信托被接管，高管上交个人护照， 疑似涉及安信信托事件
 
 ### Securities:
 | | | | |
