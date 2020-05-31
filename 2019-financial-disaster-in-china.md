@@ -31,6 +31,8 @@ Up until now, the storm is still growling....
 http://www.piaowww.com/post/993.html
 
 2020-05-11：四川信托被接管，高管上交个人护照， 疑似涉及安信信托事件
+2020-05-22：上海公安冻结安信托大股东国之杰的股份
+
 
 ### Securities:
 | | | | |
